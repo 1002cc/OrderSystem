@@ -1,0 +1,75 @@
+/**
+    该页面为浅紫色皮肤
+*/
+/*背景壁纸*/
+#frame_background,#frame_sigup_image{
+border-image:url(:/background/image/background/background-3.png);
+}
+
+//QListView {background-color:#8293fd;border-top-left-radius:20px;border-bottom-left-radius:20px}
+
+#frame_login,#frame_signup{background-color:#ffffff;border-top-left-radius:30px;border-bottom-left-radius:30px;}
+
+#frame_image{
+    background-image:url(:/background/image/background/3.png);
+
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return{
+    color:#ffffff;
+    border: none;
+    background-color:#8293fd;
+    border-radius: 10px;
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return:hover{
+    color:#ffffff;
+    border: none;
+    background-color:#4861fb;
+    border-radius: 10px;
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return:pressed{
+    color:#ffffff;
+    border: none;
+    background-color:#8293fd;
+    border-radius: 10px;
+}
+
+#label_login,#label_id,#label_password,#label_signup_password1,#label_signup_password2,#label_signup_id
+{
+    color:#7185ff;
+
+}
+
+/*按钮-深蓝*/
+#btn_s1{
+background-color:#33465d;
+border:none;
+border-radius: 15px;
+}
+/*按钮-黄绿*/
+#btn_s2{
+background-color:#d7b105;
+border:none;
+border-radius: 15px;
+}
+/*按钮-浅紫*/
+#btn_s3{
+background-color:#7185ff;
+border:none;
+border-radius: 15px;
+}
+/*按钮-青绿*/
+#btn_s4{
+background-color:#7bb7a5;
+border:none;
+border-radius: 15px;
+}
+/*按钮-主*/
+#btn_s5{
+background-color:#fbf7a5;
+border:none;
+border-radius: 15px;
+}
+

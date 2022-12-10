@@ -1,0 +1,75 @@
+/**
+    该页面为浅紫色皮肤
+*/
+#frame_background,#frame_sigup_image,#order{
+border-image:url(:/background/image/background/background-4.png);
+}
+
+#frame_login{background-color:#ffffff;
+border-top-left-radius:30px;
+border-bottom-left-radius:30px;}
+
+//QListView {background-color:#74fae9;border-top-left-radius:20px;border-bottom-left-radius:20px}
+
+#frame_image{
+    background-image:url(:/background/image/background/4.png);
+
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return,#pushButton_ru,#pushButton_shopping{
+    color:#316f67;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return,#pushButton_ru,#pushButton_shopping:hover{
+    color:#316f67;
+    border: none;
+    background-color:#4af8e2;
+    border-radius: 5px;
+}
+
+#pushButton_sign,#pushButton_login,#pushButton_sig,#pushButton_return,#pushButton_ru,#pushButton_shopping:pressed{
+    color:#316f67;
+    border: none;
+    background-color:#74fae9;
+    border-radius: 5px;
+}
+
+#label_login,#label_id,#label_password,#label_signup_password1,#label_signup_password2,#label_signup_id,#label_signup
+{
+    color:#7bb7a5;
+
+}
+
+/*按钮-深蓝*/
+#btn_s1{
+background-color:#33465d;
+border:none;
+border-radius: 15px;
+}
+/*按钮-黄绿*/
+#btn_s2{
+background-color:#d7b105;
+border:none;
+border-radius: 15px;
+}
+/*按钮-浅紫*/
+#btn_s3{
+background-color:#7185ff;
+border:none;
+border-radius: 15px;
+}
+/*按钮-青绿*/
+#btn_s4{
+background-color:#7bb7a5;
+border:none;
+border-radius: 15px;
+}
+/*按钮-主*/
+#btn_s5{
+background-color:#fbf7a5;
+border:none;
+border-radius: 15px;
+}

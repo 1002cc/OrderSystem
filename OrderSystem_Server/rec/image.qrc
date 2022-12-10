@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>image/menu/s_water.png</file>
+        <file>image/menu/NongFu.png</file>
+        <file>image/menu/juice.png</file>
+        <file>image/menu/cola.png</file>
+        <file>image/menu/coffce.png</file>
+        <file>image/menu/c100.png</file>
+        <file>image/menu/蒸鱼.png</file>
+        <file>image/menu/蒸排骨.png</file>
+        <file>image/menu/小龙虾.png</file>
+        <file>image/menu/乳鸽.png</file>
+        <file>image/menu/花甲.png</file>
+        <file>image/menu/凤爪.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>image/background/colorhub-background.jpg</file>
+        <file>image/background/colorhub.jpg</file>
+        <file>image/background/background-4.png</file>
+        <file>image/background/background-3.png</file>
+        <file>image/background/background-2.png</file>
+        <file>image/background/background-1.png</file>
+        <file>image/background/4.png</file>
+        <file>image/background/3.png</file>
+        <file>image/background/2.png</file>
+        <file>image/background/1.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/style-5.qss</file>
+        <file>qss/style-4.qss</file>
+        <file>qss/style-3.qss</file>
+        <file>qss/style-2.qss</file>
+        <file>qss/style-1.qss</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>image/icon/icon.ico</file>
+    </qresource>
+</RCC>
